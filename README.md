@@ -1,0 +1,1 @@
+# Hand_Tracking_Test_MediaPipe
